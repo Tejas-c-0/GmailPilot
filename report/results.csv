@@ -1,0 +1,13 @@
+email,expected,predicted,pass
+"Project report due tomorrow",Urgent,Urgent,true
+"Join the campus hackathon",FYI,FYI,true
+"Placement drive registration closes today",Urgent,Urgent,true
+"Your monthly statement is ready",FYI,FYI,true
+"Five small habits for focused study",Newsletter,Newsletter,true
+"You won a free prize!",Spam,Spam,true
+"Coffee after class?",Needs reply,Needs reply,true
+"Updated slides for our review",Needs reply,Needs reply,true
+"Department review meeting today",Urgent,Urgent,true
+"Could you send the draft by Friday?",Needs reply,Needs reply,true
+"Upload assignment to the portal",Task/Action,Task/Action,true
+"Scheduled campus Wi-Fi maintenance",FYI,FYI,true
