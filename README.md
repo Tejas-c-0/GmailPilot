@@ -170,7 +170,7 @@ This repository includes [`.github/workflows/deploy-pages.yml`](./.github/workfl
 4. Push to `main` or run the workflow manually from the **Actions** tab.
 5. Check the workflow run for the published URL. For this repository, the expected project-site URL is `https://tejas-c-0.github.io/GmailPilot/`.
 
-The workflow builds with `GITHUB_PAGES=true`; [`vite.config.js`](./vite.config.js) then sets the project-site base path. Pages must be enabled in repository settings before the first deployment can succeed.
+The workflow builds with `GITHUB_PAGES=true`; [`vite.config.js`](./vite.config.js) then sets the case-sensitive `/GmailPilot/` project-site base path. Pages must be enabled in repository settings before the first deployment can succeed.
 
 ## Project map
 
